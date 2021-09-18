@@ -86,6 +86,7 @@ public class main extends JFrame {
 
 	/**
 	 * Create the frame.
+	 * Hyvää koodia!
 	 */
 	public main() {
 		setIconImage(Toolkit.getDefaultToolkit().getImage(main.class.getResource("/kuvia/gasoline.png")));
